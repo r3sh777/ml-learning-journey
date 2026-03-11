@@ -1,6 +1,6 @@
 # 🐍 ML Learning Journey
 
-HELlOOO! I'm **Reshmmin Raj**, a student who finally decided to lock in and start learning AI/ML properly.  
+Decided to lock in and start learning AI/ML properly.  
 
 This repo is basically me documenting the whole journey from **bare-minimum Python knowledge → hopefully competent AI/ML engineer someday**.
 
