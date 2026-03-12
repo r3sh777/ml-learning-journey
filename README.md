@@ -94,9 +94,11 @@ ml-learning-journey/
 │   ├── day1_pandas_cleaning.py       # DataFrames, filtering, data cleaning
 │   ├── day2_eda_titanic.py           # Exploratory Data Analysis on Titanic
 │   ├── day2_seaborn_visualization.py # histplot, barplot, scatterplot, heatmap
-│   └── day2_csv_json_files.py        # Reading & writing CSV and JSON files
+│   ├── day2_csv_json_files.py        # Reading & writing CSV and JSON files
+│   └── day3_eda_zomato.py            # Exploratory Data Analysis on Zomato (Food Delivery App Data)
 └── 📁 datasets/
-    └── StudentPerformanceFactors.csv
+    ├── StudentPerformanceFactors.csv
+    └── Zomato.csv
 ```
 
 ---
@@ -148,7 +150,7 @@ ml-learning-journey/
 
 ## 🔜 What's Coming Next
 
-- Phase 3 — Gradients, Probability & Linear Algebra (intuitively, ugh i hate math)
+- Phase 3 — Gradients, Probability & Linear Algebra (intuitively though, ugh i hate math)
 - Phase 4 — First real ML model with Scikit-learn
 - More Kaggle datasets & mini projects
 
