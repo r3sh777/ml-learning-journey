@@ -134,7 +134,7 @@ ml-learning-journey/
 |---------|--------|---------|
 | Titanic | [GitHub](https://github.com/datasciencedojo/datasets) | EDA & survival analysis |
 | Student Performance Factors | [Kaggle](https://www.kaggle.com) | Visualization & correlation analysis |
-| Zomato Dataset | [Kaggle](https://www.kaggle.com) | Coming soon 🔜 |
+| Zomato Dataset | [Kaggle](https://www.kaggle.com) | Visualization & correlation analysis |
 
 ---
 
